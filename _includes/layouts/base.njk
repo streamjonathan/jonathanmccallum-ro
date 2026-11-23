@@ -132,8 +132,8 @@
 </script>
 {% endif %}
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="/feed/">
-<link rel="preload" href="/css/style.css?v=14" as="style">
-<link rel="stylesheet" href="/css/style.css?v=14">
+<link rel="preload" href="/css/style.css?v=15" as="style">
+<link rel="stylesheet" href="/css/style.css?v=15">
 </head>
 <body>
 <a class="skip-link" href="#main">Sari la conținut</a>
@@ -145,13 +145,21 @@
 {{ content | safe }}
 </main>
 <footer class="site-footer">
-    <p>{{ site.title }} — <a href="/feed/">RSS feed</a> · <a href="/search/">Caută</a> · <a href="/privacy/">Confidențialitate</a></p>
+    <p>{{ site.title }} — <a href="/feed/">RSS feed</a> · <a href="/search/">Caută</a> · <a href="/privacy/">Confidențialitate</a> · <a href="#" id="cookie-settings">Setări cookie</a></p>
   <p>Connect — <a href="https://www.instagram.com/jonamccallum">Instagram</a> · <a href="https://www.threads.com/@jonamccallum">Threads</a> · <a href="https://www.youtube.com/@Jonathanmccallum1">YouTube</a> · <a href="https://jonamccallum.substack.com">Substack</a> · <a href="/feed/">RSS</a></p>
   <p>Salută — <a href="#" data-contact-email data-contact-email-text>Trimite-mi un e-mail</a></p>
   <p>Built with Eleventy, hosted on Cloudflare Pages.</p>
 </footer>
 <script src="/js/main.js?v=8" defer></script>
 <script src="/js/contact.js?v=1" defer></script>
+<script src="/js/consent.js?v=1" defer></script>
 <script src="/js/comments.js?v=1" defer></script>
+<div id="cookie-banner" class="cookie-banner" role="dialog" aria-label="Cookie-uri" hidden>
+  <p><strong>Cookie-uri.</strong> Site-ul acesta e simplu: își amintește doar tema ta deschisă sau întunecată, pe propriul tău dispozitiv. Nimic aici nu te urmărește. <a href="/privacy/">Citește pagina de confidențialitate</a>.</p>
+  <p class="cookie-banner__buttons">
+    <button id="cookie-accept" type="button">Acceptă</button>
+    <button id="cookie-reject" type="button">Respinge</button>
+  </p>
+</div>
 </body>
 </html>
