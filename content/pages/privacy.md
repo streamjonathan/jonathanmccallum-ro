@@ -6,7 +6,7 @@ original_url: https://jonathanmccallum.com/privacy/
 
 # Confidențialitate
 
-Acest site este condus de Jonathan McCallum, care locuiește în Getaria, Spania. Este un site mic și personal: scrieri și un chat care răspunde pornind de la aceste scrieri. Nu există conturi de creat aici, nu există urmărire, nu există publicitate și nimic de vânzare. Respectă legea europeană privind confidențialitatea (GDPR) pentru toți vizitatorii, oriunde s-ar afla în lume.
+Acest site este condus de Jonathan McCallum, care locuiește în Țara Bascilor. Este un site mic și personal: scrieri și un chat care răspunde pornind de la aceste scrieri. Nu există conturi de creat aici, nu există urmărire, nu există publicitate și nimic de vânzare. Respectă legea europeană privind confidențialitatea (GDPR) pentru toți vizitatorii, oriunde s-ar afla în lume.
 
 Dacă ai nevoie să întrebi ceva despre această pagină sau despre datele tale personale, scrie-i lui Jonathan la <a href="#" data-contact-email data-contact-email-text>Trimite-mi un e-mail</a>. Îi poți trimite un mesaj și pe [Instagram](https://www.instagram.com/jonamccallum) sau [Threads](https://www.threads.com/@jonamccallum).
 
